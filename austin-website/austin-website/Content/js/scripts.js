@@ -259,7 +259,7 @@ $(function () {
 			},
 			hiddenRecaptcha: {
 				required: function () {
-					if (grecaptcha.getResponse() == '') {
+					if (grecaptcha.getResponse() === '') {
 						return true;
 					} else {
 						return false;
@@ -290,7 +290,7 @@ $(function () {
 	
 	
 	/*
-		Validate Commect Form
+		Validate Comment Form
 	*/
 	
 	$("#comment_form").validate({
