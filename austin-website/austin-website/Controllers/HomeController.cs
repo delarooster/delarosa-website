@@ -13,7 +13,8 @@ namespace austin_website.Controllers
             return View();
         }
 
-        public ActionResult About()
+        [HttpPost]
+        public ActionResult ContactSubmit()
         {
             ViewBag.Message = "Your application description page.";
 

@@ -180,6 +180,8 @@
     <Content Include="Content\fonts\ionicons.svg" />
     <Content Include="Content\images\austin and joseph on beach.jpg" />
     <Content Include="Content\images\Austin LinkedIn Headshot 2.jpg" />
+    <Content Include="Content\images\baby and tuba.jpg" />
+    <Content Include="Content\images\baptismofchrist1483_PietroPerugino.jpg" />
     <Content Include="Content\images\bg.jpg" />
     <Content Include="Content\images\blog\blog1.jpg" />
     <Content Include="Content\images\blog\blog2.jpg" />
@@ -265,6 +267,7 @@
     <Content Include="Content\less\template-dark\.DS_Store" />
     <Content Include="Content\less\template-dark\dark.less" />
     <Content Include="Content\images\Austin DeLaRosa Resume.pdf" />
+    <None Include="Properties\PublishProfiles\austindelarosa - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
