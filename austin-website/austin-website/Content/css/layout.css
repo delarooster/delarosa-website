@@ -288,6 +288,7 @@
 	-moz-border-radius: 4px 4px 0 0;
 	-webkit-border-radius: 4px 4px 0 0;
 	-khtml-border-radius: 4px 4px 0 0;
+
 }
 
 .card-started .profile .slide:before,
@@ -421,7 +422,14 @@
 		font-size: 28px;
 		line-height: 28px;
 	}
+}
 
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
 }
 
 /*
