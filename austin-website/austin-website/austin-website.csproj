@@ -178,6 +178,9 @@
     <Content Include="Content\doc\assets\table.css" />
     <Content Include="Content\doc\index.html" />
     <Content Include="Content\fonts\ionicons.svg" />
+    <Content Include="Content\images\2018-09-05_19-44-13.jpg" />
+    <Content Include="Content\images\2018-09-05_19-44-42.jpg" />
+    <Content Include="Content\images\2018-09-05_19-45-05.jpg" />
     <Content Include="Content\images\61585253c47b798.jpg" />
     <Content Include="Content\images\austin and joseph on beach.jpg" />
     <Content Include="Content\images\Austin LinkedIn Headshot 2.jpg" />
@@ -191,7 +194,10 @@
     <Content Include="Content\images\clients\client_2.png" />
     <Content Include="Content\images\clients\client_3.png" />
     <Content Include="Content\images\clients\client_4.png" />
+    <Content Include="Content\images\favicons\favicon-16x16.png" />
     <Content Include="Content\images\favicons\favicon.ico" />
+    <Content Include="Content\images\file-1.jpeg" />
+    <Content Include="Content\images\footballmarchingband2014_004.jpg" />
     <Content Include="Content\images\man1.jpg" />
     <Content Include="Content\images\profile.png" />
     <Content Include="Content\images\works\work1.jpg" />
