@@ -199,7 +199,13 @@
     <Content Include="Content\images\file-1.jpeg" />
     <Content Include="Content\images\footballmarchingband2014_004.jpg" />
     <Content Include="Content\images\man1.jpg" />
+    <Content Include="Content\images\National Park frontpage.png" />
     <Content Include="Content\images\profile.png" />
+    <Content Include="Content\images\Vending Normal Display.png" />
+    <Content Include="Content\images\Vending Insufficient Funds Display.png" />
+    <Content Include="Content\images\Vending Inventory Sheet.png" />
+    <Content Include="Content\images\Vending Inventory.png" />
+    <Content Include="Content\images\Vending Transaction.png" />
     <Content Include="Content\images\works\work1.jpg" />
     <Content Include="Content\images\works\work2.jpg" />
     <Content Include="Content\images\works\work3.jpg" />

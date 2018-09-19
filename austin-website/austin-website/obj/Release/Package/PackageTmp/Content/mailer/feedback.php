@@ -1,6 +1,6 @@
 <?php 
-require 'PHPMailerAutoload.php';
-require 'form_setting.php';
+require 'Content/mailer/PHPMailerAutoload.php';
+require 'Content/mailer/form_setting.php';
 
 if(isset($_POST)){
 	$name = $_POST['name'];
