@@ -1,0 +1,63 @@
+
+Austin DeLaRosa
+Software Engineer
+
+Independence, KY 41051
+Phone: (859) 444-8011
+E-Mail: austin.delarosa@gmail.com
+
+Skills
+
+Proficient in C#  
+
+Node  
+
+Databases using T-SQL  
+
+NoSQL (MongoDB/CosmosDB)  
+
+Virtualization using Azure/AWS  
+
+Proficient in JavaScript/TypeScript  
+
+DevOps pipeline strategy  
+
+YAML  
+
+Professional Summary
+
+Hardworking software engineer passionate about DevOps and driven to increase team communication. Focused on usability and code clarity. History of developing useful, maintainable, and efficient projects.
+
+Work History
+
+January 2020 to Current
+The David J. Joseph Company Cincinnati, Ohio
+Software Engineer    
+
+Wrote clean code for our ERP rewrite in C#, hosted in Azure with regular CI/CD deployments
+Coordinated with product owners and engineering leads to gather and develop system requirements
+
+July 2019 to January 2020
+Organized Living Sharonville, Ohio
+Software Engineer    
+
+Built brand-new shelving line (Select) into Designer utilizing C#, TypeScript, and Node, focused around API architecture and CI/CD
+Beefed up microservices with headless browser to offload client-side load
+
+October 2018 to July 2019
+AtriCure Mason, Ohio
+Software Developer    
+
+Delivered 30% increase of automated reconciliation in physical inventory program (C#)
+Increased collaboration and communication for SOX audit change controls, using PowerApps POC to quickly and seamlessly iterate feedback into regular updates
+
+Education
+
+Tech Elevator Cincinnati, OH
+Full Stack Developer Certificate ASP.NET MVC (C#) 
+
+Butler University Indianapolis
+Master of Music Music Performance 
+
+DePauw University Greencastle, IN
+Bachelor of Music Music Performance 
