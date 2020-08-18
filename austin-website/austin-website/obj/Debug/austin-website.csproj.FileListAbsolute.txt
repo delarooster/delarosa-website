@@ -175,7 +175,6 @@ C:\Repos\delarosa\delarosa-website\austin-website\austin-website\bin\Microsoft.A
 C:\Repos\delarosa\delarosa-website\austin-website\austin-website\bin\Microsoft.AI.WindowsServer.xml
 C:\Repos\delarosa\delarosa-website\austin-website\austin-website\bin\Microsoft.AI.Web.xml
 C:\Repos\delarosa\delarosa-website\austin-website\austin-website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Repos\delarosa\delarosa-website\austin-website\austin-website\obj\Debug\austin-website.csprojAssemblyReference.cache
 C:\Repos\delarosa\delarosa-website\austin-website\austin-website\obj\Debug\austin-website.csproj.CoreCompileInputs.cache
 C:\Repos\delarosa\delarosa-website\austin-website\austin-website\obj\Debug\austin-website.csproj.CopyComplete
 C:\Repos\delarosa\delarosa-website\austin-website\austin-website\obj\Debug\austin-website.dll
