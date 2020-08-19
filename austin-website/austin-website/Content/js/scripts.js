@@ -16,7 +16,7 @@ $(window).on("load", function() {
 });
 
 $(function () {
-	'use strict';
+	/*'use strict';*/
 	
 	
 	/*
@@ -268,12 +268,22 @@ $(function () {
 			}
 		},
 		success: "valid",
-		submitHandler: function() {
+		submitHandler: function () {
+			var name = $("#cform").find('input[name="name"]').val();
+			var email = $("#cform").find('input[name="email"]').val();
+            var message = $("#cform").find('textarea[name="message"]').val();
 			$.ajax({
-				url: 'Content/mailer/feedback.php',
+				url: "Home/ContactSubmit",
 				type: 'post',
 				dataType: 'json',
-				data: 'name='+ $("#cform").find('input[name="name"]').val() + '&email='+ $("#cform").find('input[name="email"]').val() + '&message=' + $("#cform").find('textarea[name="message"]').val(),
+				data: {
+					name: name,
+					email: email,
+					message: message
+                },
+     //               'name=' + $("#cform").find('input[name="name"]').val() +
+					//'&email=' + $("#cform").find('input[name="email"]').val() +
+     //               '&message=' + $("#cform").find('textarea[name="message"]').val(),
 				beforeSend: function() {
 				
 				},
